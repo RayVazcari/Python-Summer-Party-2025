@@ -1,0 +1,21 @@
+guest_id,visit_date,amount_spent,park_experience_type
+1,2024-07-05,50.0,Attraction
+2,2024-07-06,30.0,Dining
+3,2024-07-10,20.5,Retail
+4,2024-07-12,40.0,Entertainment
+1,2024-07-15,35.0,Dining
+5,2024-07-20,60.0,Attraction
+6,2024-07-25,25.0,Retail
+1,2024-08-03,55.0,Attraction
+1,2024-08-15,45.0,Dining
+2,2024-08-05,22.0,Retail
+2,2024-08-20,38.0,Entertainment
+7,2024-08-10,15.0,Character Meet
+3,2024-08-25,28.0,Retail
+3,2024-08-27,32.0,Dining
+1,2024-09-02,65.0,Attraction
+8,2024-09-05,50.0,Retail
+9,2024-09-15,40.0,Dining
+10,2024-09-20,70.0,Entertainment
+1,2024-09-25,35.0,Dining
+8,2024-09-28,10.0,Character Meet
