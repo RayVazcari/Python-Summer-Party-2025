@@ -1,0 +1,61 @@
+region,customer_id,pre_order_date,demographic_group,pre_order_quantity
+North America,C001,2024-07-02,Gamer,1
+Europe,C002,2024-07-03,Casual,2
+Asia,C003,2024-07-04,Tech Enthusiast,1
+Latin America,C004,2024-07-05,Family,3
+Oceania,C005,2024-07-06,Student,2
+North America,C006,2024-07-07,Gamer,5
+Europe,C007,2024-07-08,,2
+,C008,2024-07-09,Casual,1
+Asia,C009,2024-07-10,Family,4
+North America,C010,2024-07-11,Gamer,1
+North America,C010,2024-07-11,Gamer,1
+Europe,C011,2024-07-12,Student,2
+Asia,C012,2024-07-13,Casual,3
+Latin America,C013,2024-07-14,Tech Enthusiast,2
+Oceania,C014,2024-07-15,Gamer,5
+North America,C015,2024-07-16,Casual,1
+Europe,C016,2024-07-17,Family,4
+Asia,C017,2024-07-18,Student,3
+Latin America,C018,2024-07-19,Gamer,1
+Oceania,C019,2024-07-20,Tech Enthusiast,2
+Oceania,C019,2024-07-20,Tech Enthusiast,2
+North America,C020,2024-07-21,Family,3
+Europe,C021,2024-07-22,Gamer,2
+Asia,C022,2024-07-23,Casual,1
+Latin America,C023,2024-07-24,Student,4
+Oceania,C024,2024-07-25,Family,2
+North America,C025,2024-07-26,Tech Enthusiast,1
+Europe,C026,2024-07-27,Student,5
+Asia,C027,2024-07-28,Gamer,2
+Latin America,C028,2024-07-29,Casual,3
+Oceania,C029,2024-07-30,Family,1
+North America,C030,2024-08-01,Gamer,1
+Asia,C031,2024-08-02,,2
+Latin America,C032,2024-08-03,Tech Enthusiast,3
+Oceania,C033,2024-08-04,Student,1
+North America,C034,2024-08-05,Family,4
+Europe,C035,2024-08-06,Gamer,2
+Asia,C036,2024-08-07,Casual,5
+Latin America,C037,2024-08-08,Family,1
+Oceania,C038,2024-08-09,Tech Enthusiast,2
+North America,C039,2024-08-10,Student,10
+Europe,C040,2024-08-11,Family,3
+Asia,C041,2024-08-12,Gamer,1
+Latin America,C042,2024-08-13,Casual,2
+Oceania,C043,2024-08-14,Student,5
+North America,C044,2024-08-15,Tech Enthusiast,2
+Europe,C045,2024-08-16,Family,1
+Asia,C046,2024-08-17,Gamer,3
+Latin America,C047,2024-08-18,Casual,2
+Oceania,C048,2024-08-19,,4
+North America,C049,2024-08-20,Student,1
+Europe,C050,2024-08-21,Gamer,2
+Asia,C051,2024-08-22,Casual,3
+Latin America,C052,2024-08-23,Tech Enthusiast,2
+Oceania,C053,2024-08-24,Family,1
+North America,C054,2024-08-25,Gamer,1
+Europe,C055,2024-08-26,Casual,2
+Asia,C056,2024-08-27,Student,3
+Latin America,C057,2024-08-28,Family,4
+Oceania,C058,2024-08-29,Tech Enthusiast,1
