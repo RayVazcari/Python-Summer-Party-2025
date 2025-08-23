@@ -1,0 +1,62 @@
+sale_date,temperature,product_name,sales_volume,transaction_id
+2024-07-05,62.0,Cherry Garcia,23,TX0001
+2024-08-15,64.0,Chunky Monkey,26,TX0002
+2024-09-25,66.0,Phish Food,29,TX0003
+2024-10-05,68.0,Americone Dream,32,TX0004
+2024-11-15,70.0,Chocolate Fudge Brownie,35,TX0005
+2024-12-25,72.0,Half Baked,38,TX0006
+2025-01-05,74.0,New York Super Fudge Chunk,41,TX0007
+2025-02-15,76.0,Cherry Garcia,44,TX0008
+2025-03-25,78.0,Chunky Monkey,47,TX0009
+2025-04-05,80.0,Phish Food,50,TX0010
+2025-05-15,82.0,Americone Dream,53,TX0011
+2025-06-25,84.0,Chocolate Fudge Brownie,1000,TX0012
+2024-07-05,86.0,Half Baked,59,TX0013
+2024-08-15,88.0,New York Super Fudge Chunk,62,TX0014
+2024-09-25,90.0,Cherry Garcia,65,TX0015
+2024-10-05,61.0,Chunky Monkey,68,TX0016
+2024-11-15,63.0,Phish Food,71,TX0017
+2024-12-25,65.0,Americone Dream,74,TX0018
+2025-01-05,67.0,Chocolate Fudge Brownie,77,TX0019
+2025-02-15,105.0,Half Baked,80,TX0020
+2025-03-25,71.0,New York Super Fudge Chunk,83,TX0021
+2025-04-05,,Cherry Garcia,86,TX0022
+2025-05-15,75.0,Chunky Monkey,89,TX0023
+2025-06-25,77.0,Phish Food,92,TX0024
+2024-07-05,79.0,Americone Dream,95,TX0025
+2024-08-15,81.0,Chocolate Fudge Brownie,98,TX0026
+2024-09-25,83.0,Half Baked,101,TX0027
+2024-10-05,85.0,New York Super Fudge Chunk,104,TX0028
+2024-11-15,87.0,Cherry Garcia,107,TX0029
+2024-12-25,89.0,Chunky Monkey,110,TX0030
+2025-01-05,60.0,Phish Food,113,TX0031
+2025-02-15,62.0,Americone Dream,116,TX0032
+2025-03-25,64.0,Chocolate Fudge Brownie,119,TX0033
+2025-04-05,66.0,Half Baked,122,TX0034
+2025-05-15,68.0,New York Super Fudge Chunk,125,TX0035
+2025-06-25,70.0,Cherry Garcia,128,TX0036
+2024-07-05,72.0,Chunky Monkey,1200,TX0037
+2024-08-15,74.0,Phish Food,134,TX0038
+2024-09-25,76.0,Americone Dream,137,TX0039
+2024-10-05,78.0,Chocolate Fudge Brownie,140,TX0040
+2024-11-15,80.0,Half Baked,143,TX0041
+2024-12-25,82.0,New York Super Fudge Chunk,146,TX0042
+2025-01-05,84.0,Cherry Garcia,149,TX0043
+2025-02-15,86.0,Chunky Monkey,22,TX0044
+2025-03-25,40.0,Phish Food,25,TX0045
+2025-04-05,90.0,Americone Dream,28,TX0046
+2025-05-15,61.0,Chocolate Fudge Brownie,31,TX0047
+2025-06-25,63.0,Half Baked,34,TX0048
+2024-07-05,65.0,New York Super Fudge Chunk,37,TX0049
+2024-08-15,67.0,Cherry Garcia,40,TX0050
+2024-09-25,69.0,Chunky Monkey,43,TX0051
+2024-10-05,71.0,Phish Food,46,TX0052
+2024-11-15,73.0,Americone Dream,49,TX0053
+2024-12-25,75.0,Chocolate Fudge Brownie,52,TX0054
+2025-01-05,,Half Baked,55,TX0055
+2025-02-15,79.0,New York Super Fudge Chunk,58,TX0056
+2025-03-25,81.0,Cherry Garcia,61,TX0057
+2025-04-05,83.0,Chunky Monkey,64,TX0058
+2025-05-15,85.0,Phish Food,67,TX0059
+2025-06-25,87.0,Americone Dream,70,TX0060
+2024-12-25,89.0,Chunky Monkey,110,TX0030
