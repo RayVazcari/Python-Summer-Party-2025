@@ -1,0 +1,16 @@
+customer_email,transaction_id,transaction_date,transaction_amount,fraud_detection_score
+alice@gmail.com,1,2024-10-05,120.0,10
+bob@customdomain.com,2,2024-10-15,250.5,20
+charlie@yahoo.com,3,2024-10-20,75.25,15
+dana@hotmail.com,4,2024-10-25,100.0,30
+eve@biz.org,5,2024-10-30,300.0,40
+frank@gmail.com,6,2024-11-03,150.75,25
+grace@outlook.com,7,2024-11-10,,50
+ivan@yahoo.com,8,2024-11-15,200.0,35
+judy@hotmail.com,9,2024-11-21,250.0,45
+ken@domain.net,10,2024-11-29,300.0,55
+laura@riskmail.com,11,2024-12-02,100.0,80
+mike@securepay.com,12,2024-12-03,180.0,85
+nina@trusthub.com,13,2024-12-09,220.0,90
+oscar@fintech.com,14,2024-12-16,140.0,70
+paula@alertsys.com,15,2024-12-23,260.0,95
